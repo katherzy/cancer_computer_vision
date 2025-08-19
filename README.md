@@ -1,4 +1,4 @@
-My repo for experimenting with computer vision tasks. Need a to organize into util, requirements files.
+My repo for experimenting with computer vision tasks. Need to organize into util, requirements files.
 
 Cervical Cancer:
   - Classification
